@@ -1,0 +1,11 @@
+{
+  "title": "Script1 server",
+  "port": "8000",
+  "logging": {
+    "execution_file": "$DATE-$ID.log",
+    "execution_date_format": "%y-%m-%d_%H-%M"
+  },
+  "security": {
+    "xsrf_protection": "token"
+  }
+}

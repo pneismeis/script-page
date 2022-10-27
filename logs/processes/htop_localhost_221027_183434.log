@@ -1,0 +1,10 @@
+id:5
+user_name:localhost
+user_id:127.0.0.1
+script:htop
+start_time:1666895674352
+command:/usr/bin/bash /tmp/test.sh
+output_format:terminal
+exit_code:1
+>>>>>  OUTPUT STARTED <<<<<
+mkdir: cannot create directory ‘/root/test’: Permission denied

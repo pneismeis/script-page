@@ -1,0 +1,7 @@
+{
+  "name": "htop",
+  "script_path": "/usr/bin/bash /tmp/test.sh",
+  "description": "This is a very dangerous script, please be careful when running. Don't forget your protective helmet.",
+  "requires_terminal": false,
+  "output_format": "terminal"
+}
